@@ -6,7 +6,9 @@
 package arreglos;
 
 import java.util.Scanner;
-
+/**
+* Arreglo recorriendo y sacando el promedio 
+ */
 /**
  *
  * @author AspireE
