@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author AspireE
  */
 public class Arreglos {
-//prueba
+
     /**
      * @param args the command line arguments
      */
