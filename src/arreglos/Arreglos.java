@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author AspireE
  */
 public class Arreglos {
-
+//prueba
     /**
      * @param args the command line arguments
      */
@@ -24,7 +24,7 @@ public class Arreglos {
         int mayor = 0;
         int menor = 0;
         int dimension;
-        System.out.println("Ingresa la dimension del arreglo :");
+        System.out.println("Ingresa la dimension del arregloss :");
         dimension = entrada.nextInt();
         int[] Arreglo = new int[dimension];
         for (int i = 0; i < Arreglo.length; i++) {
